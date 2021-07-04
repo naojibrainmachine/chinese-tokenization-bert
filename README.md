@@ -1,7 +1,8 @@
 # chinese-tokenization-bert
 This was a Chinese tokenization which consist of bert.
 
-直接运行train_.py就能进行训练。  
+直接运行train_bert_tokenize.py就能进行训练。  
+运行test_bert_tokenize.py就能进行测试。 
 
 测试准确率：74%  
 
