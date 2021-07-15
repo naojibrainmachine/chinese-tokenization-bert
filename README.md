@@ -3,7 +3,7 @@ This was a Chinese tokenization which consist of bert.
 
 这是个中文序列标注的一个例子。用bert模型来分词，用B和I来标注词语。 
 
-这个模型测试准确率低大可能是我在训练时，隐藏层大小只为4，需要进一步提高，可增加这个大小和bert的层数。
+这个模型测试准确率低，大可能是我在训练时，隐藏层大小只为4。如果需要进一步提高，可增加这个隐藏层大小和bert的层数。
 
 直接运行train_bert_tokenize.py就能进行训练。  
 运行test_bert_tokenize.py就能进行测试。 
